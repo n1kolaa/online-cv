@@ -164,22 +164,22 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: C
+        level: 60%
+
+      - name: C#
+        level: 30%
+
+      - name:  Microsoft Office
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: HTML & CSS
+        level: 45%
 
-      - name: Angular
-        level: 98%
+      - name: Video editing
+        level: 35%
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: Photoshop
         level: 60%
 
 footer: >
