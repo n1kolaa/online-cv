@@ -47,11 +47,11 @@ career-profile:
       Svako moze da namesti svoji cv, lako je! Mislim da je ovo mnogo korisnije od pravljenja sajata za prvobitno zadatu temu
 education:
     - degree: IT engineering
-      collage: Technical faculty “Mihajlo Pupin"
+      university: Technical faculty “Mihajlo Pupin"
       time: 2015 - ?
 
     - degree: Elektrotehnicar racunara
-      midle school: Tehnicka škola Kikinda
+      university: Tehnicka škola Kikinda
       time: 2011 - 2015
 skills:
     title: Skills &amp; Proficiency
