@@ -58,22 +58,22 @@ skills:
 
     toolset:
       - name: C
-        level: 60%
+        level: 100%
 
       - name: C#
-        level: 30%
+        level: 100%
 
       - name:  Microsoft Office
-        level: 98%
+        level: 100%
 
       - name: HTML & CSS
-        level: 45%
+        level: 100%
 
       - name: Video editing
-        level: 35%
+        level: 100%
 
       - name: Photoshop
-        level: 60%
+        level: 100%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
